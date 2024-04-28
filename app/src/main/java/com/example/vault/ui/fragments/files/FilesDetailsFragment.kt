@@ -73,7 +73,7 @@ class FilesDetailsFragment : BaseFragment() {
                     findNavController().navigateUp()
                     true
                 }
-                
+
                 else -> false
             }
         }
