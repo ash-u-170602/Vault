@@ -1,4 +1,4 @@
-# Secure Photo Vault
+# Vault App
 
 Secure Photo Vault is an Android application designed to securely store sensitive photos and files. Built with Kotlin and leveraging advanced security features such as AES-256 encryption, this app ensures that your private data remains protected. The app includes biometric authentication options, robust logging, and secure sharing capabilities.
 
