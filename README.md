@@ -15,7 +15,7 @@ Vault App is an Android application designed to securely store sensitive photos 
 
 ### Overview
 
-The Secure Photo Vault app is built using the Model-View-ViewModel (MVVM) architecture. This architecture promotes a clear separation of concerns and enhances the scalability and maintainability of the application. The key components of this architecture include:
+The Vault App app is built using the Model-View-ViewModel (MVVM) architecture. This architecture promotes a clear separation of concerns and enhances the scalability and maintainability of the application. The key components of this architecture include:
 
 ### Components
 
@@ -50,7 +50,7 @@ This architecture not only ensures that the app remains scalable and maintainabl
 
 ## Details of Libraries and Frameworks
 
-The Secure Photo Vault app utilizes several robust libraries and frameworks to ensure secure storage, effective encryption, and reliable authentication. Below are details of these technologies and their roles within the app:
+The Vault App app utilizes several robust libraries and frameworks to ensure secure storage, effective encryption, and reliable authentication. Below are details of these technologies and their roles within the app:
 
 ### Secure Storage
 
@@ -82,11 +82,11 @@ The Secure Photo Vault app utilizes several robust libraries and frameworks to e
 - **Navigation Component**: Part of Android Jetpack, the Navigation component helps with managing app navigation within a single activity. This component simplifies implementing navigation, providing a consistent and predictable user experience across the app.
     - **Versions**: `androidx.navigation:navigation-fragment-ktx:2.7.7`, `androidx.navigation:navigation-ui-ktx:2.7.7`
 
-These libraries and frameworks collectively contribute to the robust functionality of the Secure Photo Vault, ensuring that the app is secure, user-friendly, and highly maintainable.
+These libraries and frameworks collectively contribute to the robust functionality of the Vault App, ensuring that the app is secure, user-friendly, and highly maintainable.
 
 ## Decisions or Assumptions Made During Development
 
-During the development of the Secure Photo Vault, several key decisions and assumptions were made to guide the design and functionality of the app. These are outlined below:
+During the development of the Vault App, several key decisions and assumptions were made to guide the design and functionality of the app. These are outlined below:
 
 ### Security First Approach
 
@@ -123,7 +123,7 @@ During the development of the Secure Photo Vault, several key decisions and assu
 - **Assumption**: Keeping track of user activity within the app can aid in diagnostics and provide a secure audit trail.
 - **Decision**: Implement detailed logging for photo additions and access within the app. This helps in maintaining a secure and traceable record of all operations, enhancing user trust and app reliability.
 
-These decisions and assumptions have been fundamental in shaping the development of the Secure Photo Vault, ensuring that the app meets the needs of users while adhering to high standards of security and functionality.
+These decisions and assumptions have been fundamental in shaping the development of the Vault App, ensuring that the app meets the needs of users while adhering to high standards of security and functionality.
 
 
 ## Setup and Installation
