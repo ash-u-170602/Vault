@@ -80,5 +80,4 @@ class FilesDetailsFragment : BaseFragment() {
         popupMenu.show()
     }
 
-
 }
