@@ -30,3 +30,5 @@ The app uses the Model-View-ViewModel (MVVM) architecture to ensure a clean sepa
 1. Clone the repository.
 2. Open the project in Android Studio.
 3. Build the project and run on an Android device or emulator.
+
+Or you can download the apk using this link https://drive.google.com/file/d/1B2YXcn-FMMVMDzOTpmTEjWS3Q5EVNckY/view?usp=sharing
