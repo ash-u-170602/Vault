@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Vault</string>
+    <string name="or_use_fingerprint">Or Use Fingerprint</string>
+    <string name="photos">Photos</string>
+    <string name="files">Files</string>
+    <string name="unlock_vault">Unlock Vault</string>
+    <string name="touch_your_fingerprint_sensor">Touch your fingerprint sensor</string>
+    <string name="images">Images</string>
+    <string name="no_images_added">No Images Added</string>
+    <string name="vault_app">Vault App</string>
+    <string name="image_deleted_successfully">Image deleted successfully</string>
+    <string name="failed_to_delete_the_image">Failed to delete the image</string>
+    <string name="failed_to_delete_the_image_due_to_permission_issues">Failed to delete the image due to permission issues</string>
+    <string name="delete_original">Delete Original?</string>
+    <string name="do_you_want_to_delete_the_original_from_your_camera_roll">Do you want to delete the original from your Camera Roll?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="for_best_experience_please_enable_notification_permission">For best experience please enable notification permission.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="restore">Restore</string>
+    <string name="image_restored_to_gallery">Image restored to gallery</string>
+    <string name="share">Share</string>
+    <string name="setup_6_digit_security_code">Setup 6 digit Security Code</string>
+    <string name="confirm_security_code">Confirm Security Code</string>
+    <string name="register">Register</string>
+    <string name="enter_valid_passcode">Enter valid Security Code</string>
+    <string name="security_code_doesnot_matches">Securty Code doesn\'t matches</string>
+    <string name="incorrect_security_code">Incorrect Security Code</string>
+    <string name="details">Details</string>
+    <string name="recently_opened">Recently Opened:</string>
+    <string name="no_files_added">No files added</string>
+    <string name="file_too_large">File too large</string>
+</resources>

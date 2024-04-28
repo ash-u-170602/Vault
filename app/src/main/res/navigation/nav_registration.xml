@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_registration.xml"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.vault.ui.fragments.registration.SplashFragment"
+        android:label="SplashFragment"
+        tools:layout="@layout/fragment_splash">
+        <action
+            android:id="@+id/action_splashFragment_to_setupPinFragment"
+            app:destination="@id/setupPinFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/setupPinFragment"
+        android:name="com.example.vault.ui.fragments.registration.SetupPinFragment"
+        android:label="SetupPinFragment"
+        tools:layout="@layout/fragment_setup_pin"/>
+</navigation>
