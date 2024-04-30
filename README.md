@@ -132,4 +132,4 @@ These decisions and assumptions have been fundamental in shaping the development
 2. Open the project in Android Studio.
 3. Build the project and run on an Android device or emulator.
 
-Or you can download the apk using this link https://drive.google.com/file/d/1B2YXcn-FMMVMDzOTpmTEjWS3Q5EVNckY/view?usp=sharing
+Or you can download the apk using this link https://drive.google.com/file/d/1htUrpWOj_XRTrBJNN39xzaU_c_8WK48h/view?usp=sharing
